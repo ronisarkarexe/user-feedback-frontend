@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Milk",
+    "description": "1 Liter Bottle",
+    "price": 6.7,
+    "image": "https://images.unsplash.com/photo-1560848119-ec9255fd285b?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "alt": "Premium Milk"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Paneer",
+    "description": "200g Pack",
+    "price": 4.5,
+    "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?q=80&w=1396&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "alt": "Fresh Paneer"
+  },
+  {
+    "id": 3,
+    "name": "Fresh Yogurt",
+    "description": "500g Pack",
+    "price": 3.5,
+    "image": "https://images.unsplash.com/photo-1625944230945-1b7dd3b949ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEZyZXNoJTIwWW9ndXJ0fGVufDB8fDB8fHww",
+    "alt": "Fresh Yogurt"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Butter",
+    "description": "250g Pack",
+    "price": 5.1,
+    "image": "https://plus.unsplash.com/premium_photo-1701090453035-937e16fd4355?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "alt": "Fresh Butter"
+  },
+  {
+    "id": 5,
+    "name": "Butter Milk",
+    "description": "150g Pack",
+    "price": 3.1,
+    "image": "https://plus.unsplash.com/premium_photo-1663853491603-96b9ef509975?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "alt": "Butter Milk"
+  }
+]
