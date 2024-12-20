@@ -7,12 +7,12 @@ Instructions on setting up your project locally.
 - Clone this repository
 
 ```sh
- https://github.com/ronisarkarexe/pride-of-cows.git
+ https://github.com/ronisarkarexe/user-feedback-frontend.git
 ```
 
 ### After cloning let's run the project.
 
-- cd pride-of-cows
+- cd user-feedback-frontend
 - Install the dependencies using `npm install`
 
 ### Run
